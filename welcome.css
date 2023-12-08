@@ -1,0 +1,30 @@
+video{
+    max-width: 100%;
+}
+*{
+   background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+h1{
+    font-size: 1rem;
+    font-weight: 1rem;
+    font-style: italic;
+   background-color: antiquewhite;
+}
+p{
+    font-size: 1rem;
+    color: beige;
+    
+    background-color: black;
+    font-weight: 1rem;
+}
+h1{
+    margin:10px 800px 10px 500px ;
+    padding:10px 100px 10px 10px;
+    
+}
+a{
+    color: aqua;
+}
